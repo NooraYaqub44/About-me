@@ -15,4 +15,4 @@ I'm a software engineer. <br />
 
 - 📍 &nbsp;	Current location: Iraq, Erbil
 - 💬 &nbsp;	Ask me about anything, I am happy to help
-- 💌 &nbsp;	How to reach me: [@noorayaqub](noorayaqub44@gmail.com)
+- 💌 &nbsp;	How to reach me: [@noorayaqub](https://www.linkedin.com/in/noora-yaqub-82316713b/)
