@@ -1,7 +1,7 @@
 ### Hi, I'm Noora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Im a software engineer. <br />
-I like to build websites. 
+I'm a software engineer. <br />
+
 <br />
 
 #### Languages and tools I work with:
