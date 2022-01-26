@@ -3,7 +3,7 @@
 
 **Currently busy with:**
 ```
-- learning TypeScript
+- working on a e-commerence Project
 - mastering PHP
 - mastering Laravel php
 - developing my personal website
