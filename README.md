@@ -1,12 +1,13 @@
 <h2 align="center">Hi 👋, I'm Noora </h2>
-<h4 align="center">Software Engineer from Iraq</h4>
+<h4 align="center">Software Engineer from Erbil, Iraq</h4>
 
 **Currently busy with:**
 ```
 - working on a e-commerence Project
+- developing my personal website
 - mastering PHP
 - mastering Laravel php
-- developing my personal website
+
 ```
 
 **Languages:**
