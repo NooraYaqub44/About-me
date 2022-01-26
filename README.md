@@ -1,24 +1,32 @@
-### Hi, I'm Noora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center">Hi 👋, I'm Noora </h2>
+<h4 align="center">Software Engineer from Iraq</h4>
 
-- &nbsp; I'm a software engineer. <br />
-- &nbsp; A frontend web-developer. <br />
-- &nbsp; Currently I'm working on my Protfolio. <br />
+**Currently busy with:**
+```
+- learning TypeScript
+- mastering PHP
+- mastering Laravel php
+- developing my personal website
+```
 
+**Languages:**
 
-#### Languages and tools I work with:
+```
+ JavaScript, Java, MySQL, HTML, CSS, XML
+```
+**Techs I use:**
+```
+ React, Next, Redux, NodeJS, Firebase, Git, GitHub, Chakra-UI, Tailwind
+```
+**Other tools:**
+```
+ Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
+```
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-
-<br />
+**Reach me out** 
 
 - 📍 &nbsp;	Current location: Iraq, Erbil
 - 💬 &nbsp;	Ask me about anything, I am happy to help
 - 💌 &nbsp;	How to reach me: [@noorayaqub](https://www.linkedin.com/in/noora-yaqub-82316713b/)
+- 💌 &nbsp; Portfolio: https://noorayaqubportfolio.vercel.app/
+- 💌 &nbsp; Email: noorayaqub44@gmail.com
